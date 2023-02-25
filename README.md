@@ -1,2 +1,2 @@
-# parser_examples
-Different examples for website parsers
+# scraper_examples
+Different examples for website scraping
